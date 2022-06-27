@@ -8,7 +8,7 @@
         •	Each team will have multiple players assigned to it.
         •	Game and team names must be unique to allow users to check whether a name is in use when choosing a team name.
         •	Only one instance of the game can exist in memory at any given time. This can be accomplished by creating 
-           unique identifiers for each instance of a game, team, or player.
+             unique identifiers for each instance of a game, team, or player.
   
   What did you do particularly well in developing this documentation?
   
